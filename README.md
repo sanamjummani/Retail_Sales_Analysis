@@ -66,20 +66,29 @@ CREATE TABLE sales (
 
 ### Key Findings
 
-- **Top 3-Selling Products**: Identified product lines that drive the most sales in terms of quantity and revenue.
+- **Top-Selling Products**: Identified product lines that drive the most sales in terms of quantity and revenue.
 <img width="263" alt="Screenshot 2024-06-20 at 4 07 19 PM" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/a26b08e7-89e7-42dc-b22c-45a2bd25567c">
 
 - **Sales Trends**: Highlighted seasonal trends and peak sales times, providing insights for better inventory and staffing decisions.
+  <img width="354" alt="image" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/4d1a2302-6de4-427c-85b7-ee5af3eaad51">
+
 - **Customer Behavior**: Revealed customer types that contribute the most to high-value purchases, assisting in targeted marketing.
+  <img width="329" alt="image" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/fd905372-476b-40fc-be12-8de6595d12c8">
+
 - **Payment Method Impact**: Analyzed the effectiveness of different payment methods in driving sales.
+<img width="348" alt="image" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/131e5a90-12ca-4027-9261-b294a2dcb74f">
+
+  
 - **Gross Margin and Product Rating**: Explored the relationship between product margins and customer feedback, aiding in pricing and quality decisions.
+  <img width="304" alt="image" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/1a80c18e-1289-4382-a3de-18e37862628c">
+
 
 ### Recommendations
 
-- **Optimize Inventory for Top-Selling Products**: Ensure high stock levels for top-selling product lines to avoid stockouts and maximize sales.
+- **Optimize Inventory for Top-Selling Products**: Ensure high stock levels for top-selling product lines like Food and beverages and Fashion accessories to avoid stockouts and maximize sales.
 - **Target Marketing Efforts**: Focus on high-value customer types with personalized promotions to boost repeat purchases and loyalty.
-- **Adjust Staffing Based on Sales Trends**: Schedule more staff during peak hours and weekends to handle increased customer traffic efficiently.
-- **Analyze Payment Preferences**: Promote the most popular payment methods to streamline transactions and enhance customer satisfaction.
+- **Adjust Staffing Based on Sales Trends**: Schedule more staff during peak hours and days like Satudays and Tuesday evenings to handle increased customer traffic efficiently.
+- **Analyze Payment Preferences**: Promote the most popular payment methods i.e. cash to streamline transactions and enhance customer satisfaction.
 
 ## Conclusion
 
