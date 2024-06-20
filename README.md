@@ -80,6 +80,7 @@ CREATE TABLE sales (
 
   
 - **Gross Margin and Product Rating**: Explored the relationship between product margins and customer feedback, aiding in pricing and quality decisions.
+  
   <img width="304" alt="image" src="https://github.com/sanamjummani/Retail_Sales_Analysis/assets/99756504/1a80c18e-1289-4382-a3de-18e37862628c">
 
 
